@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+    <title>
+FASHION CLOTHING LINE
+    </title>
+    <style>
+        body, html {
+          height: 100%;
+          margin: 0;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+        
+        .hero-image {
+          background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://burst.shopifycdn.com/photos/model-in-gold-fashion.jpg?width=1200&format=pjpg&exif=1&iptc=1");
+          height: 100%;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+          position: relative;
+        }
+        
+        .hero-text {
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+        
+        .hero-text button {
+          border: none;
+          outline: 0;
+          display: inline-block;
+          padding: 10px 25px;
+          color: black;
+          background-color: #ddd;
+          text-align: center;
+          cursor: pointer;
+        }
+        
+        .hero-text button:hover {
+          background-color: #555;
+          color: white;
+        }
+        .hero {
+    background: #c1c7cc;
+}
+
+         section {
+    margin: 0;
+    padding: 20px;
+    border: 1px solid black;
+    color: #ffffff;
+}
+
+
+
+        </style>
+    <head>
+CLOTHING LINE
+    
+    </head>
+
+<body>
+    
+    <div class="hero-image">
+        <div class="hero-text">
+            <h1 style="font-size:50px">CLOTHING LINE</h1>
+            <h2 style="font-size: larger;">LOOK YOUR BEST WITH US</h2>
+            <p>MAKING YOU LOOK GOOD</p>
+          <button>VIEW ITEMS</button>
+        </div>
+      </div>
+      <main>
+        <section class="hero">
+            Hero
+            <p>
+                Need an online store for your business?
+
+        Enjoy Shopify for $1/month on select plans during the trial period 
+            </p>
+        </section>
+        
+        
+    
+        
+        <section class="Content">
+            Content
+            <p>
+                Looking for premium, royalty-free model photos? Burst has hundreds of high-resolution pictures that feature females and males modelling all kinds of casual and formal clothing.
+                 These high resolution photos are royalty-free, which means you can use them for any personal or commercial purpose.
+
+                
+            </p>
+        </section>
+      </main>
+      
+      
+      
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
